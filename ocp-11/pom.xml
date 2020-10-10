@@ -10,6 +10,7 @@
     <version>2020.09.1</version>
     <modules>
         <module>Chapter-13</module>
+        <module>Chapter-18</module>
     </modules>
 
     <dependencyManagement>
