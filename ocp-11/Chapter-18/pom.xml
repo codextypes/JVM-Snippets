@@ -9,7 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Chapter-13</artifactId>
+    <groupId>xyz.joshaustin.snippets</groupId>
+    <artifactId>Chapter-18</artifactId>
     <build>
         <plugins>
             <plugin>
