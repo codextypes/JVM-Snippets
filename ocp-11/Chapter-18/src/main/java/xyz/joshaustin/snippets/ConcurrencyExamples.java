@@ -1,6 +1,6 @@
 package xyz.joshaustin.snippets;
 
-public class HouseChores {
+public class ConcurrencyExamples {
 
     public static void main(String[] args) {
 
@@ -12,6 +12,9 @@ public class HouseChores {
         for (var household : households) {
             household.doAllChores();
         }
+
+        var puppyCounter = new CountingPuppies();
+        puppyCounter.addPuppies(10);
     }
 
 }
