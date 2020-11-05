@@ -11,6 +11,7 @@
     <modules>
         <module>Chapter-13</module>
         <module>Chapter-18</module>
+        <module>Chapter-12</module>
     </modules>
 
     <dependencyManagement>
