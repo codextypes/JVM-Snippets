@@ -8,6 +8,12 @@
     <artifactId>ocp-11</artifactId>
     <packaging>pom</packaging>
     <version>2020.12.1</version>
+
+    <properties>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+    </properties>
+
     <modules>
         <module>Chapter-13</module>
         <module>Chapter-18</module>
