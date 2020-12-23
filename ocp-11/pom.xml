@@ -7,7 +7,7 @@
     <groupId>xyz.joshaustin</groupId>
     <artifactId>ocp-11</artifactId>
     <packaging>pom</packaging>
-    <version>2020.09.1</version>
+    <version>2020.12.1</version>
     <modules>
         <module>Chapter-13</module>
         <module>Chapter-18</module>

@@ -2,15 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <parent>
-        <artifactId>ocp-11</artifactId>
-        <groupId>xyz.joshaustin</groupId>
-        <version>2020.12.1</version>
-    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>xyz.joshaustin.snippets</groupId>
-    <artifactId>Chapter-18</artifactId>
+    <groupId>xyz.joshaustin</groupId>
+    <artifactId>spring</artifactId>
+    <version>2020.12.1</version>
+    <packaging>pom</packaging>
 
 
 </project>
